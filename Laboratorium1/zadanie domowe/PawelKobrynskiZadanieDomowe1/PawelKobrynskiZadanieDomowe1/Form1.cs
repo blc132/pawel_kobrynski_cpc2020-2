@@ -12,6 +12,9 @@ namespace PawelKobrynskiZadanieDomowe1
 {
     public partial class Form1 : Form
     {
+        public int time;
+
+
         public Form1()
         {
             InitializeComponent();
